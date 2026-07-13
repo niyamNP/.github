@@ -12,7 +12,9 @@ The platform digitizes and deeply structures legal texts (Constitutions, Bills, 
 
 The legal domain is incredibly complex, filled with dense jargon and confusing structures. In Nepal, navigating these laws is a massive challenge because documents are highly interconnected, scattering crucial context across hard-to-navigate cross-references. NIYAM is designed to solve this by creating a centralized, structured system that brings clarity and accessibility to legal texts for legal professionals, policymakers, and the general public.  
 
-Links: [Facebook](https://facebook.com/niyamnp), [LinkedIn](https://linkedin.com/company/niyamnp), [X](https://x.com/niyamnp), [Instagram](https://instagram.com/niyamnp), [Tiktok](https://www.tiktok.com/@niyamnp), [YouTube](https://youtube.com/@niyamnp), [GitHub](https://github.com/niyamnp)
+Links: [Facebook](https://facebook.com/niyamnp), [LinkedIn](https://linkedin.com/company/niyamnp), [X](https://x.com/niyamnp), [Instagram](https://instagram.com/niyamnp), [Tiktok](https://www.tiktok.com/@niyamnp), [YouTube](https://youtube.com/@niyamnp)
+
+[More on GitHub](https://github.com/niyamNP/niyam)
 
 Our Emails:
 * `info@niyam.dev` for general use and inquiries
